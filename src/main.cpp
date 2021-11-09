@@ -3,8 +3,8 @@
 #include <SoftwareSerial.h>
 
 // Constant variable definition
-#define MOTOR_1 5
-#define MOTOR_2 6
+#define MOTOR_1 9
+#define MOTOR_2 10
 const int delay_time = 10;
 
 // Private variable definition
